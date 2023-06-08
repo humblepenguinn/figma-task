@@ -1,0 +1,965 @@
+/* CSS for the homepage
+This was taken from the figma design and converted to CSS
+*/
+
+.HomePage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+
+.HomePage .Request_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1434.24px;
+	height: 927px;
+}
+
+.HomePage .Request_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1434.24px;
+	height: 927px;
+}
+
+.HomePage .Rectangle26 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1434.24px;
+	height: 927px;
+}
+.HomePage .Youcurrentlyhave3requests {
+	position: absolute;
+	left: 327.02px;
+	top: 62px;
+	width: 363px;
+	height: 35px;
+	color: rgba(114,170,131,1.00);
+	font-family: Poppins;
+	font-size: 23px;
+	font-weight: 600;
+	line-height: 35px;
+}
+.HomePage .Rectangle24 {
+	position: absolute;
+	left: 333.65999999999997px;
+	top: 131.97px;
+	width: 924.62px;
+	height: 187.57999999999998px;
+}
+.HomePage .Rectangle25 {
+	position: absolute;
+	left: 328.68px;
+	top: 370.18px;
+	width: 924.62px;
+	height: 436.58px;
+}
+.HomePage .Group6 {
+	position: absolute;
+	left: 366.03px;
+	top: 170.98px;
+	width: 591.79px;
+	height: 48.718401184082026px;
+}
+.HomePage .Group6 .StJudesHospital {
+	position: absolute;
+	left: 0px;
+	top: 0.83px;
+	width: 185.92px;
+	height: 29.88px;
+	color: rgba(72,175,120,1.00);
+	font-family: Lato;
+	font-size: 24.399704189300536px;
+	font-weight: 700;
+	line-height: 29.529188346862792px;
+}
+.HomePage .Group6 .SarasotaFL33178 {
+	position: absolute;
+	left: 0px;
+	top: 55px;
+	width: 118.69px;
+	height: 17.43px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 12.048312950134276px;
+	font-weight: 500;
+	line-height: 17.001651306152343px;
+}
+.HomePage .Group6 .October {
+	position: absolute;
+	left: 257.3px;
+	top: 28.22px;
+	width: 50.629999999999995px;
+	height: 17.43px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 13.762508106231689px;
+	font-weight: 500;
+	line-height: 16.655761508941648px;
+}
+.HomePage .Group6 .December {
+	position: absolute;
+	left: 334.49px;
+	top: 28.22px;
+	width: 63.08px;
+	height: 17.43px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 13.762508106231689px;
+	font-weight: 500;
+	line-height: 16.655761508941648px;
+}
+.HomePage .Group6 ._10Singles10doubles {
+	position: absolute;
+	left: 448.2px;
+	top: 28.22px;
+	width: 143.59px;
+	height: 18.259999999999998px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 14.591222629547119px;
+	font-weight: 500;
+	line-height: 17.65869611740112px;
+}
+.HomePage .Group6 ._1017 {
+	position: absolute;
+	left: 257.3px;
+	top: 0px;
+	width: 130.31px;
+	height: 28.22px;
+	color: rgba(72,175,120,1.00);
+	font-family: Lato;
+	font-size: 23.192598838806152px;
+	font-weight: 700;
+	line-height: 28.06831691741943px;
+}
+.HomePage .Group6 ._20Rooms {
+	position: absolute;
+	left: 448.2px;
+	top: 0px;
+	width: 109.55999999999999px;
+	height: 29.88px;
+	color: rgba(72,175,120,1.00);
+	font-family: Lato;
+	font-size: 24.600773639678955px;
+	font-weight: 700;
+	line-height: 29.772526550292966px;
+}
+.HomePage .Group6 .Line10 {
+	position: absolute;
+	left: 208.04747375488282px;
+	top: 2.727591552734375px;
+	width: 0px;
+	height: 45.99080963134765px;
+}
+.HomePage .Group6 .Line10_1 {
+	position: absolute;
+	left: 417.075px;
+	top: 2.727591552734375px;
+	width: 0px;
+	height: 45.99080963134765px;
+}
+.HomePage .Group7 {
+	position: absolute;
+	left: 367.69px;
+	top: 398.4px;
+	width: 591.79px;
+	height: 49.04181255340576px;
+}
+.HomePage .Group7 .StJudesHospital_1 {
+	position: absolute;
+	left: 0px;
+	top: 2.485060729980469px;
+	width: 185.92px;
+	height: 29.88px;
+	color: rgba(72,175,120,1.00);
+	font-family: Lato;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.529188346862792px;
+}
+.HomePage .Group7 .SarasotaFL33178_1 {
+	position: absolute;
+	left: 0px;
+	top: 55px;
+	width: 118.69px;
+	height: 17.43px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 14.048312950134276px;
+	font-weight: 500;
+	line-height: 17.001651306152343px;
+}
+.HomePage .Group7 .October_1 {
+	position: absolute;
+	left: 242.35999999999999px;
+	top: 28.036107177734372px;
+	width: 50.629999999999995px;
+	height: 17.43px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 13.762508106231689px;
+	font-weight: 500;
+	line-height: 16.655761508941648px;
+}
+.HomePage .Group7 .December_1 {
+	position: absolute;
+	left: 324.5016815185547px;
+	top: 28.036107177734372px;
+	width: 63.08px;
+	height: 17.43px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 13.762508106231689px;
+	font-weight: 500;
+	line-height: 16.655761508941648px;
+}
+.HomePage .Group7 ._10Singles10doubles_1 {
+	position: absolute;
+	left: 448.2px;
+	top: 27.7997314453125px;
+	width: 143.59px;
+	height: 18.259999999999998px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 14.591222629547119px;
+	font-weight: 500;
+	line-height: 17.65869611740112px;
+}
+.HomePage .Group7 ._1017_1 {
+	position: absolute;
+	left: 242.52342651367186px;
+	top: 1.153408203125px;
+	width: 130.31px;
+	height: 28.22px;
+	color: rgba(72,175,120,1.00);
+	font-family: Lato;
+	font-size: 23.192598838806152px;
+	font-weight: 700;
+	line-height: 28.06831691741943px;
+}
+.HomePage .Group7 ._20Rooms_1 {
+	position: absolute;
+	left: 447.1146270751953px;
+	top: 0px;
+	width: 109.55999999999999px;
+	height: 29.88px;
+	color: rgba(72,175,120,1.00);
+	font-family: Lato;
+	font-size: 24.600773639678955px;
+	font-weight: 700;
+	line-height: 29.772526550292966px;
+}
+.HomePage .Group7 .Line10_2 {
+	position: absolute;
+	left: 208.04747375488282px;
+	top: 3.0509997558593747px;
+	width: 0px;
+	height: 45.99080963134765px;
+}
+.HomePage .Group7 .Line10_3 {
+	position: absolute;
+	left: 417.075px;
+	top: 3.0509997558593747px;
+	width: 0px;
+	height: 45.99081279754638px;
+}
+.HomePage .Rectangle28 {
+	position: absolute;
+	left: 343.62px;
+	top: 244.01999999999998px;
+	width: 321.21px;
+	height: 39.839999999999996px;
+}
+.HomePage .Rectangle29 {
+	position: absolute;
+	left: 362.71px;
+	top: 477.25px;
+	width: 590.9599999999999px;
+	height: 39.839999999999996px;
+}
+.HomePage .RECEIVED {
+	position: absolute;
+	left: 362.71px;
+	top: 253.98px;
+	width: 66.39999999999999px;
+	height: 17.43px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 14.048312950134276px;
+	font-weight: 500;
+	line-height: 17.001651306152343px;
+}
+.HomePage .NEGOTIATING {
+	position: absolute;
+	left: 731.23px;
+	top: 254.80999999999997px;
+	width: 88.81px;
+	height: 16.599999999999998px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 13.35966947555542px;
+	font-weight: 500;
+	line-height: 16.168236560821533px;
+}
+.HomePage .COMPLETED {
+	position: absolute;
+	left: 1017.5799999999999px;
+	top: 254.80999999999997px;
+	width: 80.50999999999999px;
+	height: 16.599999999999998px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 13.35966947555542px;
+	font-weight: 500;
+	line-height: 16.168236560821533px;
+}
+.HomePage .COMPLETED_1 {
+	position: absolute;
+	left: 388.44px;
+	top: 488.03999999999996px;
+	width: 80.50999999999999px;
+	height: 16.599999999999998px;
+	color: rgba(255,255,255,1.00);
+	font-family: Lato;
+	font-size: 13.35966947555542px;
+	font-weight: 500;
+	line-height: 16.168236560821533px;
+}
+.HomePage .Line18 {
+	position: absolute;
+	left: 877.7249999999999px;
+	top: 244.01999999999998px;
+	width: 0px;
+	height: 39.839999999999996px;
+}
+.HomePage .Line19 {
+	position: absolute;
+	left: 665.245px;
+	top: 244.01999999999998px;
+	width: 0px;
+	height: 39.839999999999996px;
+}
+.HomePage .Group17 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 245.67999999999998px;
+	height: 927.1099999999999px;
+}
+.HomePage .Group17 .Rectangle22 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 245.67999999999998px;
+	height: 927.1099999999999px;
+}
+.HomePage .Group17 .LODGN {
+	position: absolute;
+	left: 31.54px;
+	top: 30.776363525390625px;
+	width: 98.77px;
+	height: 35.69px;
+	color: rgba(50,50,50,1.00);
+	font-family: Lato;
+	font-size: 29.449118347167968px;
+	font-weight: 800;
+	font-style: italic;
+	line-height: 35.64012603759765px;
+}
+.HomePage .Group17 .Currentrequests {
+	position: absolute;
+	left: 15.77px;
+	top: 121.96521728515624px;
+	width: 162.67999999999998px;
+	height: 29.049999999999997px;
+	color: rgba(114,170,131,1.00);
+	font-family: Poppins;
+	font-size: 18.926024150848388px;
+	font-weight: 600;
+	line-height: 28.389037017822265px;
+}
+.HomePage .Group17 .Ongoingstays {
+	position: absolute;
+	left: 15.77px;
+	top: 188.41px;
+	width: 135.29px;
+	height: 27.389999999999997px;
+	color: rgba(73,73,73,1.00);
+	font-family: Poppins;
+	font-size: 18.259999999999998px;
+	font-weight: 600;
+	line-height: 27.389999999999997px;
+}
+.HomePage .Group17 .Previousstays {
+	position: absolute;
+	left: 15.77px;
+	top: 253.98px;
+	width: 134.45999999999998px;
+	height: 27.389999999999997px;
+	color: rgba(73,73,73,1.00);
+	font-family: Poppins;
+	font-size: 18.259999999999998px;
+	font-weight: 600;
+	line-height: 27.389999999999997px;
+}
+.HomePage .Group17 .Reports {
+	position: absolute;
+	left: 15.77px;
+	top: 319.55px;
+	width: 71.38px;
+	height: 27.389999999999997px;
+	color: rgba(73,73,73,1.00);
+	font-family: Poppins;
+	font-size: 18.259999999999998px;
+	font-weight: 600;
+	line-height: 27.389999999999997px;
+}
+.HomePage .Group17 .Rectangle23 {
+	position: absolute;
+	left: 24.07px;
+	top: 733.7199999999999px;
+	width: 191.73px;
+	height: 58.099999999999994px;
+}
+.HomePage .Group17 .LogOut {
+	position: absolute;
+	left: 82.17px;
+	top: 750.3199999999999px;
+	width: 85.49px;
+	height: 27.389999999999997px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 18.259999999999998px;
+	font-weight: 600;
+	line-height: 27.389999999999997px;
+}
+.HomePage .Group17 .Line14 {
+	position: absolute;
+	left: 16.599999999999998px;
+	top: 166.415px;
+	width: 206.67px;
+	height: 0px;
+}
+.HomePage .Group17 .Line15 {
+	position: absolute;
+	left: 16.599999999999998px;
+	top: 234.06px;
+	width: 206.67px;
+	height: 0px;
+}
+.HomePage .Group17 .Line16 {
+	position: absolute;
+	left: 16.599999999999998px;
+	top: 300.04499999999996px;
+	width: 206.67px;
+	height: 0px;
+}
+.HomePage .Group17 .Line17 {
+	position: absolute;
+	left: 16.599999999999998px;
+	top: 366.85999999999996px;
+	width: 206.67px;
+	height: 0px;
+}
+.HomePage .Group17 .HelpDesk {
+	position: absolute;
+	left: 89.64px;
+	top: 801.78px;
+	width: 72.21px;
+	height: 18.259999999999998px;
+	color: rgba(73,73,73,1.00);
+	font-family: Lato;
+	font-size: 14.599226779937743px;
+	font-weight: 500;
+	line-height: 17.668383102416993px;
+}
+.HomePage .Group17 ._7868749988 {
+	position: absolute;
+	left: 81.33999999999999px;
+	top: 823.36px;
+	width: 93.78999999999999px;
+	height: 18.259999999999998px;
+	color: rgba(73,73,73,1.00);
+	font-family: Lato;
+	font-size: 14.599226779937743px;
+	font-weight: 500;
+	line-height: 17.668383102416993px;
+}
+.HomePage .Group13 {
+	position: absolute;
+	left: 680.6px;
+	top: 568.55px;
+	width: 228.25px;
+	height: 182.6px;
+}
+.HomePage .Group13 .Rectangle30 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 228.25px;
+	height: 182.6px;
+}
+.HomePage .Group13 .HolidayInn {
+	position: absolute;
+	left: 73.03999999999999px;
+	top: 70.55px;
+	width: 88.81px;
+	height: 24.07px;
+	color: rgba(133,195,113,1.00);
+	font-family: Poppins;
+	font-size: 15.873499870300293px;
+	font-weight: 400;
+	font-style: italic;
+	line-height: 23.81024980545044px;
+}
+.HomePage .Group13 .Rectangle31 {
+	position: absolute;
+	left: 0px;
+	top: 105.41px;
+	width: 228.25px;
+	height: 77.19px;
+}
+.HomePage .Group13 .Vector1 {
+	position: absolute;
+	left: 103.79696105957031px;
+	top: 21.2172802734375px;
+	width: 8.268679962158203px;
+	height: 35.85740325927734px;
+}
+.HomePage .Group13 .Vector1_1 {
+	position: absolute;
+	left: 115.07242797851562px;
+	top: 18.259999999999998px;
+	width: 10.523773345947266px;
+	height: 43.989999999999995px;
+}
+.HomePage .Group13 .Vector1_2 {
+	position: absolute;
+	left: 96.28px;
+	top: 31.47611877441406px;
+	width: 39.839999999999996px;
+	height: 14.878309783935546px;
+}
+.HomePage .Group13 ._15milesawayfromjoblocation {
+	position: absolute;
+	left: 19.09px;
+	top: 115.46848144531249px;
+	width: 205.84px;
+	height: 18.259999999999998px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 14.599226779937743px;
+	font-weight: 500;
+	line-height: 17.668383102416993px;
+}
+.HomePage .Group13 .Singles120 {
+	position: absolute;
+	left: 12.45px;
+	top: 141.71601562499998px;
+	width: 79.67999999999999px;
+	height: 19.09px;
+	color: rgba(149,149,149,1.00);
+	font-family: Poppins;
+	font-size: 11.64262915611267px;
+	font-weight: 500;
+	line-height: 18.963944129943847px;
+}
+.HomePage .Group13 .Doubles145 {
+	position: absolute;
+	left: 12.45px;
+	top: 156.04px;
+	width: 86.32px;
+	height: 19.09px;
+	color: rgba(149,149,149,1.00);
+	font-family: Poppins;
+	font-size: 11.64262915611267px;
+	font-weight: 500;
+	line-height: 18.963944129943847px;
+}
+.HomePage .Group13 .Rectangle33 {
+	position: absolute;
+	left: 114.53999999999999px;
+	top: 141.93px;
+	width: 104.58px;
+	height: 33.199999999999996px;
+}
+.HomePage .Group13 .Booknow {
+	position: absolute;
+	left: 136.12px;
+	top: 149.4px;
+	width: 64.74px;
+	height: 18.259999999999998px;
+	color: rgba(255,255,255,1.00);
+	font-family: Lato;
+	font-size: 14.599226779937743px;
+	font-weight: 500;
+	line-height: 17.668383102416993px;
+}
+.HomePage .Group14 {
+	position: absolute;
+	left: 994.3399999999999px;
+	top: 568.55px;
+	width: 228.25px;
+	height: 182.6px;
+}
+.HomePage .Group14 .Rectangle30_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 228.25px;
+	height: 182.6px;
+}
+.HomePage .Group14 .HolidayInn_1 {
+	position: absolute;
+	left: 73.03999999999999px;
+	top: 70.55px;
+	width: 88.81px;
+	height: 24.07px;
+	color: rgba(133,195,113,1.00);
+	font-family: Poppins;
+	font-size: 15.873499870300293px;
+	font-weight: 400;
+	font-style: italic;
+	line-height: 23.81024980545044px;
+}
+.HomePage .Group14 .Rectangle31_1 {
+	position: absolute;
+	left: 0px;
+	top: 105.41px;
+	width: 228.25px;
+	height: 77.19px;
+}
+.HomePage .Group14 .Vector1_3 {
+	position: absolute;
+	left: 103.79701171875px;
+	top: 21.2172802734375px;
+	width: 8.268667297363281px;
+	height: 35.85740325927734px;
+}
+.HomePage .Group14 .Vector1_4 {
+	position: absolute;
+	left: 115.07242797851562px;
+	top: 18.259999999999998px;
+	width: 10.523760681152343px;
+	height: 43.989999999999995px;
+}
+.HomePage .Group14 .Vector1_5 {
+	position: absolute;
+	left: 96.28px;
+	top: 31.47611877441406px;
+	width: 39.839999999999996px;
+	height: 14.878309783935546px;
+}
+.HomePage .Group14 ._15milesawayfromjoblocation_1 {
+	position: absolute;
+	left: 19.09px;
+	top: 115.46848144531249px;
+	width: 205.84px;
+	height: 18.259999999999998px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 14.599226779937743px;
+	font-weight: 500;
+	line-height: 17.668383102416993px;
+}
+.HomePage .Group14 .Singles120_1 {
+	position: absolute;
+	left: 12.45px;
+	top: 141.71601562499998px;
+	width: 79.67999999999999px;
+	height: 19.09px;
+	color: rgba(149,149,149,1.00);
+	font-family: Poppins;
+	font-size: 11.64262915611267px;
+	font-weight: 500;
+	line-height: 18.963944129943847px;
+}
+.HomePage .Group14 .Doubles145_1 {
+	position: absolute;
+	left: 12.45px;
+	top: 156.04px;
+	width: 86.32px;
+	height: 19.09px;
+	color: rgba(149,149,149,1.00);
+	font-family: Poppins;
+	font-size: 11.64262915611267px;
+	font-weight: 500;
+	line-height: 18.963944129943847px;
+}
+.HomePage .Group14 .Rectangle33_1 {
+	position: absolute;
+	left: 114.53999999999999px;
+	top: 141.93px;
+	width: 104.58px;
+	height: 33.199999999999996px;
+}
+.HomePage .Group14 .Booknow_1 {
+	position: absolute;
+	left: 136.12px;
+	top: 149.4px;
+	width: 64.74px;
+	height: 18.259999999999998px;
+	color: rgba(255,255,255,1.00);
+	font-family: Lato;
+	font-size: 14.599226779937743px;
+	font-weight: 500;
+	line-height: 17.668383102416993px;
+}
+.HomePage .Group12 {
+	position: absolute;
+	left: 362.71px;
+	top: 551.12px;
+	width: 265.59999999999997px;
+	height: 200.03px;
+}
+.HomePage .Group12 .Group18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 265.59999999999997px;
+	height: 200.03px;
+}
+.HomePage .Group12 .Group18 .Rectangle30_2 {
+	position: absolute;
+	left: 0px;
+	top: 17.43px;
+	width: 228.25px;
+	height: 182.6px;
+}
+.HomePage .Group12 .Group18 .HolidayInn_2 {
+	position: absolute;
+	left: 73.03999999999999px;
+	top: 87.97999999999999px;
+	width: 88.81px;
+	height: 24.07px;
+	color: rgba(133,195,113,1.00);
+	font-family: Poppins;
+	font-size: 15.873499870300293px;
+	font-weight: 400;
+	font-style: italic;
+	line-height: 23.81024980545044px;
+}
+.HomePage .Group12 .Group18 .Rectangle31_2 {
+	position: absolute;
+	left: 0px;
+	top: 122.83999999999999px;
+	width: 228.25px;
+	height: 77.19px;
+}
+.HomePage .Group12 .Group18 .Vector1_6 {
+	position: absolute;
+	left: 103.79696105957031px;
+	top: 38.647280273437495px;
+	width: 8.268667297363281px;
+	height: 35.85740325927734px;
+}
+.HomePage .Group12 .Group18 .Vector1_7 {
+	position: absolute;
+	left: 115.07247863769531px;
+	top: 35.69px;
+	width: 10.523760681152343px;
+	height: 43.989999999999995px;
+}
+.HomePage .Group12 .Group18 .Vector1_8 {
+	position: absolute;
+	left: 96.28px;
+	top: 48.90611877441406px;
+	width: 39.839999999999996px;
+	height: 14.878309783935546px;
+}
+.HomePage .Group12 .Group18 ._15milesawayfromjoblocation_2 {
+	position: absolute;
+	left: 19.09px;
+	top: 132.89848144531248px;
+	width: 205.84px;
+	height: 18.259999999999998px;
+	color: rgba(149,149,149,1.00);
+	font-family: Lato;
+	font-size: 14.599226779937743px;
+	font-weight: 500;
+	line-height: 17.668383102416993px;
+}
+.HomePage .Group12 .Group18 .Singles120_2 {
+	position: absolute;
+	left: 12.45px;
+	top: 159.146015625px;
+	width: 79.67999999999999px;
+	height: 19.09px;
+	color: rgba(149,149,149,1.00);
+	font-family: Poppins;
+	font-size: 11.64262915611267px;
+	font-weight: 500;
+	line-height: 18.963944129943847px;
+}
+.HomePage .Group12 .Group18 .Doubles145_2 {
+	position: absolute;
+	left: 12.45px;
+	top: 173.47px;
+	width: 86.32px;
+	height: 19.09px;
+	color: rgba(149,149,149,1.00);
+	font-family: Poppins;
+	font-size: 11.64262915611267px;
+	font-weight: 500;
+	line-height: 18.963944129943847px;
+}
+.HomePage .Group12 .Group18 .Rectangle33_2 {
+	position: absolute;
+	left: 114.53999999999999px;
+	top: 159.35999999999999px;
+	width: 104.58px;
+	height: 33.199999999999996px;
+}
+.HomePage .Group12 .Group18 .Booknow_2 {
+	position: absolute;
+	left: 136.12px;
+	top: 166.82999999999998px;
+	width: 64.74px;
+	height: 18.259999999999998px;
+	color: rgba(255,255,255,1.00);
+	font-family: Lato;
+	font-size: 14.599226779937743px;
+	font-weight: 500;
+	line-height: 17.668383102416993px;
+}
+.HomePage .Group12 .Group18 .Rectangle32 {
+	position: absolute;
+	left: 160.19px;
+	top: 0px;
+	width: 105.41px;
+	height: 33.199999999999996px;
+}
+.HomePage .Group12 .Group18 .RareFind {
+	position: absolute;
+	left: 185.92px;
+	top: 8.299999999999999px;
+	width: 52.29px;
+	height: 17.43px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 11.081500043869019px;
+	font-weight: 500;
+	line-height: 16.622250461578368px;
+}
+
+.HomePage .Rectangle27 {
+	position: absolute;
+	left: 343.62px;
+	top: 244.01999999999998px;
+	width: 889.76px;
+	height: 39.839999999999996px;
+}
+
+.HomePage .Group10 {
+	position: absolute;
+	left: 1286.5px;
+	top: 712.9699999999999px;
+	width: 114.53999999999999px;
+	height: 114.53999999999999px;
+}
+
+.HomePage .Group10 .Group9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 114.53999999999999px;
+	height: 114.53999999999999px;
+}
+
+.HomePage .Group10 .Group9 .Group8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 114.53999999999999px;
+	height: 114.53999999999999px;
+}
+
+.HomePage .Group10 .Group9 .Group8 .Ellipse7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 114.53999999999999px;
+	height: 114.53999999999999px;
+}
+
+.HomePage .Group10 .Group9 .Group8 .Frame {
+	position: absolute;
+	left: 19.919999999999998px;
+	top: 20.75px;
+	width: 75.53px;
+	height: 67.22999999999999px;
+	background: rgba(255,255,255,1.00);
+}
+
+.HomePage .Group10 .Group9 .Group8 .Frame .Frame_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.53px;
+	height: 67.22999999999999px;
+}
+
+.HomePage .Group10 .Group9 .Group8 .Frame .Frame_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.53px;
+	height: 67.22999999999999px;
+}
+
+.HomePage .Group10 .Group9 .Group8 .Frame .Exclude {
+	position: absolute;
+	left: 30.32904296875px;
+	top: 25.21125px;
+	width: 44.01983825683593px;
+	height: 34.77051055908203px;
+}
+
+.HomePage .Group10 .Group9 .Group8 .Frame .Vector {
+	position: absolute;
+	left: 56.646486816406245px;
+	top: 33.930150756835936px;
+	width: 5.90078125px;
+	height: 5.25234375px;
+}
+
+.HomePage .Group10 .Group9 .Group8 .Frame .Exclude_1 {
+	position: absolute;
+	left: 0px;
+	top: 6.64px;
+	width: 52.63498901367187px;
+	height: 41.59855743408203px;
+}
+
+.HomePage .Group10 .Group9 .Group8 .Frame .Vector_1 {
+	position: absolute;
+	left: 14.043839111328124px;
+	top: 16.934603881835937px;
+	width: 7.080937499999999px;
+	height: 6.3028125px;
+}
+
+.HomePage .Group10 .Group9 .Group8 .Frame .Ellipse8 {
+	position: absolute;
+	left: 11.62px;
+	top: 14.94px;
+	width: 30.709999999999997px;
+	height: 9.129999999999999px;
+}
+
+.HomePage .Group10 .Group9 .Group8 .Frame .Ellipse9 {
+	position: absolute;
+	left: 37.35px;
+	top: 32.37px;
+	width: 30.709999999999997px;
+	height: 9.129999999999999px;
+}
